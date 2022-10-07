@@ -1,7 +1,7 @@
 # Ethical-Hacking-Projects
 Ethical Hacking things I have done and am working on!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Ethical Hacking Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 6

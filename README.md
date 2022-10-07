@@ -9,7 +9,7 @@ Ethical Hacking things I have done and am working on!
 
 - <b>Network Security Controls - Administrative Controls (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 - <b>Mobile Device Security - Technical Controls (Tools used)</b>
 

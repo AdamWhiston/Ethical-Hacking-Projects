@@ -3,7 +3,7 @@ Ethical Hacking things I have done and am working on!
 
 <h2>👨‍💻 Ethical Hacking Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Identification, Authentication, and Authorization (EC-Council)</b>
 6
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 7

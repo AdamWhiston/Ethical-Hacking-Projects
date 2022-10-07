@@ -27,6 +27,14 @@ Ethical Hacking things I have done and am working on!
 
   - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 ​
-- <b>IoT Device Security (Tools Used)</b>
+- <b>Cryptography and PKI (Tools Used)</b>
+
+  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Data Security (Tools Used)</b>
+
+  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Network Traffic Monitoring (Tools Used)</b>
 
   - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

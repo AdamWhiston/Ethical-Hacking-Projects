@@ -2,9 +2,7 @@
 Ethical Hacking things I have done and am working on!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-4
-​
-5
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 6
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -34,3 +32,5 @@ Ethical Hacking things I have done and am working on!
 - <b>Python</b>
 19
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+20
+​

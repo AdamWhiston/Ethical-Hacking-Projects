@@ -1,5 +1,5 @@
 # Ethical-Hacking-Projects
-Ethical Hacking things I have done and am working on!
+Ethical Hacking things I have done and am working on! Currently a WIP!
 
 <h2>👨‍💻 Ethical Hacking Projects:</h2>
 

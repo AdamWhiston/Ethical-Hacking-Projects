@@ -19,26 +19,26 @@ Ethical Hacking things I have done and am working on! Currently a WIP!
 
   - [EC-Council Virtual Labs - Preforming social engineering using various techniques to sniff users credentials and detecting a phishing attack](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>Network Level Attacks and Countermeasures (Tools Used)</b>
+- <b>Network Level Attacks and Countermeasures (macof, Wireshark, Parrot Security, arpspoof, Cain & Abel, hping3, HOIC, Anti DDoS Guardian, Zed Attack Proxy (ZAP))</b>
 
   - [EC-Council Virtual Labs - Performing MAC flooding to compromise the security of network switches, Preforming ARP poisoning to divert commnication between two machines, detecting ARP attacks using ARP spoofing tools to ensure data privacy, performing Dos and DDoS attacks using various techniques on a target host to prevent access to system resources for legitamate users, detecting and protecting against a DDoS attack, preforming session hijacking to seize control of a valid TCP communication session between two computers, and detecting session hijacking attempts using manual method](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>Web Application Attacks and Countermeasures (Tools Used)</b>
+- <b>Web Application Attacks and Countermeasures (Parrot Security, Burp Suite, Damn Small SQLi Scanner (DSSS))</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Performing a web server attack to crack FTP credentials, performing a web application attack to compromise the security of web applications to steal sensitive information, performing a SQL injection attack on target web application to manipulate the backend database and detecting SQL injection vulnerabilities](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 ​
-- <b>Wireless Attacks and Countermeasures (Tools Used)</b>
+- <b>Wireless Attacks and Countermeasures (Wireshark, Aircrack-ng, Parrot Security)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Performing Wi-Fi packet analysis and wireless attacks to crack wireless encryption](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>Mobile Attacks and Countermeasures (Tools Used)</b>
+- <b>Mobile Attacks and Countermeasures (Parrot Security, Malwarebytes Security)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Hacking an android device by creating binary payloads and securing android devices using various security tools](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>IoT and OT Attacks and Countermeasures (Tools Used)</b>
+- <b>IoT and OT Attacks and Countermeasures (Wireshark, Ubuntu, MQTT Explorer, Parrot Security)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Performing footprinting using various footprinting techniques and capturing and analyzing IoT device traffic](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
  
- - <b>Cloud Computing Threats and Countermeasures (Tools Used)</b>
+ - <b>Cloud Computing Threats and Countermeasures (lazys3, Parrot Security, AWS CLI)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Performing S3 bucket enumerations and exploiting S3 buckets](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)

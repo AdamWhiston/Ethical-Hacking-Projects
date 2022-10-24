@@ -41,4 +41,4 @@ Ethical Hacking things I have done and am working on! Currently a WIP!
  
  - <b>Cloud Computing Threats and Countermeasures (lazys3, Parrot Security, AWS CLI)</b>
 
-  - [EC-Council Virtual Labs - Performing S3 bucket enumerations and exploiting S3 buckets](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+ - [EC-Council Virtual Labs - Performing S3 bucket enumerations and exploiting S3 buckets](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
